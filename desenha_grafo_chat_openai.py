@@ -1,3 +1,5 @@
+# Programa criado em https://chat.openai.com/chat que desenha um grafo e coloca as legendas dos vértices de forma centralizada.
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
