@@ -1,3 +1,5 @@
+# Desenha grafo com arestas ponderadas e rótulos centralizados.
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
