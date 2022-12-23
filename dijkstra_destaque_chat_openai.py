@@ -1,3 +1,4 @@
+# Algoritmo de Dijkstra com caminho mínimo destacado na cor vermelha (editável).
 import networkx as nx
 import matplotlib.pyplot as plt
 
